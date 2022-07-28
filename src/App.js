@@ -7,8 +7,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Say my name.
         </p>
+        <p>You Heisenberg...</p>
+        <p><strong>You goddamn right!</strong></p>
         <a
           className="App-link"
           href="https://reactjs.org"
